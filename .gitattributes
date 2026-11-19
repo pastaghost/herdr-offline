@@ -1,0 +1,6 @@
+* -text
+*.sh text eol=lf
+*.md text
+*.txt text eol=lf
+SHA256SUMS text eol=lf
+*.json text
